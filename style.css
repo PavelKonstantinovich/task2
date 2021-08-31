@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+background-image: url(img/background.jpg);
+/* background-repeat: no-repeat; */
+background-size: cover;
+}
+h1 {
+   text-align: center;
+   background-color: rgba(0, 0, 0, 0.4);
+   padding: 10px 0;
+   width: 700px;
+   margin: 0 auto;
+   margin-bottom: 15px;
+}
+.box h3{
+color: rgb(255, 153, 0);
+text-align: center;
+}
+.box {
+    padding: 20px;
+    border-radius: 16px 0;
+    width: 660px;
+    margin: 0 auto;
+    margin-bottom: 25px;
+}
+.box a{
+text-decoration: none;
+color: red;
+font-weight: bold;
+display: block;
+text-align: right;
+}
+.box1{
+    border: grey solid 2px;
+}
+.box2{
+    border: grey dashed 2px;
+}
